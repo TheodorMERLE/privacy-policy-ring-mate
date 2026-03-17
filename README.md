@@ -18,7 +18,9 @@ Nous nous réservons le droit de mettre à jour cette politique. Toute modificat
 
 ### 5. Utilisation des permissions
 Notifications : L'application utilise les notifications uniquement pour vous informer vous alerter quand votre objectif de temps est atteint ou lorsqu'il est temps de remettre l'anneau.
+
 Alarmes et rappels : Cette permission est nécessaire pour déclencher les alertes de début ou fin de sessions avec précision, même lorsque votre téléphone est en veille.
+
 Respect de la vie privée : Ces permissions sont utilisées localement sur votre téléphone. Aucune donnée liée à vos notifications ou à vos alarmes n'est transmise à des tiers ou collectée par le développeur.
 
 ### 6. Contact
